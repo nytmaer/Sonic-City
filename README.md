@@ -1,5 +1,7 @@
 # 🌆 Sonic City
 
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nytmaer)
+
 A retro-futuristic audio visualizer that transforms music into a living, breathing cyberpunk cityscape. Built with **Three.js** and the **Web Audio API**.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -62,3 +64,6 @@ cd sonic-city-visualizer
 # Open index.html in a browser or serve with:
 python -m http.server 8000
 
+## Support
+
+If you find this project useful, you can support its development on Ko-fi: **[ko-fi.com/nytmaer](https://ko-fi.com/nytmaer)**
